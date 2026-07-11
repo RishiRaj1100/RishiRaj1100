@@ -215,7 +215,31 @@ I believe great engineering isn't just about writing code — it's about designi
 ### 🎯 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/RishiRaj1100/"><img src="https://img.shields.io/badge/LeetCode-RishiRaj1100-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rishiraj7486/"><img src="https://img.shields.io/badge/LeetCode-Rishiraj7486-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rishiraj7486?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=RishiRaj1100&show_icons=true&bg_color=0a0c16&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_color=1e1b4b" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=RishiRaj1100&background=0a0c16&title=a78bfa&ring=7c3aed&fire=8b5cf6&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&stroke=1e1b4b" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RishiRaj1100&layout=compact&bg_color=0a0c16&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_color=1e1b4b" alt="Top Languages" width="55%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=RishiRaj1100&theme=dracula&no-background=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -241,24 +265,3 @@ current_focus:
     - "Software Engineering Internships (Backend / Cloud / Full-Stack)"
     - "Open Source Collaboration (Java / Spring / AI)"
     - "Research & Build projects with strong engineers"
-```
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:rishiraj02989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rishi-raj821/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/RishiRaj1100"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
-</p>
-
-<p align="center">
-  <img src="./banner_footer.svg" width="100%" alt="Rishi Raj Footer Banner" />
-</p>
